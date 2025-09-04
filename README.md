@@ -144,4 +144,3 @@ The modular structure makes it easy to extend:
 ## License
 
 Free to use and modify for personal and commercial projects.
->>>>>>> f74630a (Initial Commit)
