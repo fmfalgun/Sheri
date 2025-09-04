@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sheri File Server
 
 A modular, feature-rich HTTP file server with web interface for uploading, browsing, viewing, and downloading files.
